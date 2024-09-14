@@ -9,12 +9,10 @@ export const feedback = [
       <div className="text-[14px] text-[#131F60]">
         <p>I am officially part of the FllowFam! 🤭</p>
         <p className="my-4">
-          @fllowforcreators has been a major part of my UGC business from the
-          very beginning. I love being able to house my portfolio, links &
-          downloads all in one place
+          @fllowforcreators has been a game-changer for my UGC business. It&apos;s amazing to have my portfolio, links, downloads, and now tokenized content all in one place!
         </p>
-        <p>Truly one of my favorite tools</p>
-        <p className="mt-2">#UGC #UGCcreator</p>
+        <p>Truly one of my favorite tools for protecting and monetizing my intellectual property.</p>
+        <p className="mt-2">#UGC #UGCcreator #Tokenize</p>
       </div>
     ),
   },
@@ -25,11 +23,10 @@ export const feedback = [
     comment: (
       <div className="text-[14px] text-[#131F60]">
         <p>I&apos;ve sold 30 of my LinkedIn toolkits on @fllowforcreators.</p>
-        <p className="my-4">Beginning work on my next one this week.</p>
-        <p>A #socialmedia guide for #realestate agents.</p>
+        <p className="my-4">Starting work on my next one this week—a #socialmedia guide for #realestate agents.</p>
+        <p>One of my longest-running clients is a real estate agency in Tennessee, and I&apos;ve learned a ton.</p>
         <p className="my-4">
-          One of my longest running clients is a real estate agency in
-          Tennessee, and man have I learned a lot.
+          Now, it&apos;s time to share that knowledge, and with tokenization on Fllow, my buyers will own a piece of this journey!
         </p>
         <p>Time to share that info!</p>
       </div>
@@ -41,11 +38,9 @@ export const feedback = [
     userName: "@elenajil",
     comment: (
       <div className="text-[14px] text-[#131F60]">
-        <p>Really liking using @fllowforcreators as my ‘link in bio’ option.</p>
+        <p>Really liking using @fllowforcreators as my &apos;link in bio&apos; option.</p>
         <p className="mt-2">
-          I can sell my music (including my upcoming Christmas album), I can
-          take Poop Word of the Day suggestions and I can sell personalized
-          videos. They make it super easy for creators.
+          I can sell my music (including my upcoming Christmas album), take Poop Word of the Day suggestions, and even sell personalized videos—all in one place.
         </p>
       </div>
     ),
@@ -56,7 +51,7 @@ export const feedback = [
     userName: "@katemarketing",
     comment: (
       <p className="text-[14px] text-[#131F60]">
-        I’d use Fllow even if it cost my left arm
+        I&apos;d use Fllow even if it cost my left arm
       </p>
     ),
   },
@@ -87,9 +82,9 @@ export const feedback = [
     userName: "@zikasphe",
     comment: (
       <p className="text-[14px] text-[#131F60]">
-        No clue what Fllow was before today. I’m new in content creating/slowly
-        getting into ways to monetize and holy shit is Fllow so easy and
-        straightforward. Game changer for people.
+        I had no idea what Fllow was until today. I&apos;m new to content creation and exploring monetization options, and wow—Fllow is incredibly easy and straightforward.
+        <br />
+        With its intuitive setup and tokenization features, it&apos;s a game changer for creators looking to streamline their process and engage their community.
       </p>
     ),
   },
@@ -99,7 +94,7 @@ export const feedback = [
     userName: "@imdanabowling",
     comment: (
       <p className="text-[14px] text-[#131F60]">
-        Here’s a reminder why using a @fllowforcreators can change the game with
+        Here&apos;s a reminder why using a @fllowforcreators can change the game with
         your conversions!
       </p>
     ),
