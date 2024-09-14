@@ -21,11 +21,9 @@ const Homepage = () => {
       <section className="bg-[#6355FF] px-[5%]">
         <div className="md:flex px-[5%] justify-between items-center gap-4 pt-[3%] pb-[4%]">
           <div className="md:w-[60%]">
-            <h1 className="md:text-[72px] text-[36px] text-white font-[600]">Meet Your All·in·One Creator Store</h1>
+            <h1 className="md:text-[72px] text-[36px] text-white font-[600]">Turn Your·Creativity·into Tokenized Value</h1>
             <p className="md:text-[22px] text-[15px] text-[#FFFFFF99] my-4">
-              Fllow is the easiest way to make money online.
-              All of your courses, digital products,
-              and bookings are now hosted in your link·in·bio.
+              Fllow is the easiest way to monetize your courses, digital products, and bookings. Now powered by Asset Chain, Fllow lets you tokenize and protect your intellectual property, making your creativity a real-world asset.
             </p>
             <button type="button" className="bg-[#30FFB4] text-[#131F60] rounded-[35px] px-6 py-4 text-[26px] font-[600]">
               <a href="https://admin.fllow.store" target='_blank'>Continue &rarr;</a>
@@ -39,7 +37,7 @@ const Homepage = () => {
       <section className="px-[5%] mt-[5%]">
         <div>
           <p className="text-[#131F60] text-center text-[36px] font-[600]">The Best Creators Use Fllow 🚀</p>
-          <p className="text-[#131F60] text-center text-[18px] py-4">See how our creators use Fllow to superpower their businesses!</p>
+          <p className="text-[#131F60] text-center text-[18px] py-4">See how our creators use Fllow to tokenize their digital products and elevate their businesses with blockchain-powered security and ownership!</p>
         </div>
         <div className="flex items-center gap-[5%] store_container overflow-hidden overflow-x-auto mt-[7%]">
           {usersStore.map((store, index) => (
@@ -89,7 +87,7 @@ const Homepage = () => {
       <section className="bg-[#EEEEF9] px-[5%]">
         <div className="py-[5%]">
           <p className="text-[#131F60] text-[36px] font-extrabold text-center">See What People Are Saying 👀</p>
-          <p className="text-[#131F60] text-[18px] text-center">No more paying for 5+ different apps! Fllow brings it all home.</p>
+          <p className="text-[#131F60] text-[18px] text-center">No more juggling multiple platforms! Fllow integrates everything, from digital products to asset tokenization, all in one place.</p>
         </div>
         <div className="py-[5%] flex flex-wrap justify-center gap-6">
           {usersFeedback.map((comment, index) => (
@@ -112,7 +110,7 @@ const Homepage = () => {
         <div className="md:flex md:items-center pt-[5%] info_con1">
           <div className="px-[5%]">
             <p className="text-[#131F60] text-[28px] md:text-[40px] pt-[7%] font-extrabold text-end">One Tap Checkout</p>
-            <p className="text-[#131F60] text-[16px] md:text-[18px]">You shouldn’t have to go through hurdles just to sell your product. Fllow brings the entire checkout process into your own hands.</p>
+            <p className="text-[#131F60] text-[16px] md:text-[18px]">Selling your products should be effortless. Fllow streamlines the process, making checkout seamless while securing your intellectual property through tokenization.</p>
           </div>
           <Image src={info1} alt="info1" className="md:w-[50%] mt-4" />
         </div>
@@ -120,7 +118,7 @@ const Homepage = () => {
           <Image src={info2} alt="info1" className="md:w-[50%] mt-4" />
           <div className="px-[5%] md:pl-[0%]">
             <p className="text-[#131F60] text-[28px] md:text-[40px] pt-[7%] font-extrabold md:text-start">No Coding Required</p>
-            <p className="text-[#131F60] text-[16px] md:text-[18px]">Fllow is super easy to use for beginners, and you really don’t need any coding experience to get started. We think even a caveman could do it.</p>
+            <p className="text-[#131F60] text-[16px] md:text-[18px]">Fllow is built for everyone—no coding needed. It&apos;s so simple, even a caveman could tokenize their assets and start selling!</p>
           </div>
         </div>
         <div className="flex justify-center my-6">
